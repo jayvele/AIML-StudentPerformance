@@ -18,7 +18,7 @@ import matplotlib.pyplot as plt
 
 """**Loading dataset using pandas**"""
 
-df = pd.read_csv('StudentsPerformance.csv')
+df = pd.read_csv('StudentsPerformance.csv.xls')
 df.head()
 
 """**Checking for null values**"""
